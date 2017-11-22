@@ -1,24 +1,14 @@
-# README
+## What is it?
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a template for quick start with geslico. You can use it for test new developments.
+You need your own database.yml.
 
-Things you may want to cover:
+## Installation
 
-* Ruby version
+1. `git clone git@github.com:geslico/geslico_labs.git`
+2. `cd geslico_labs`
+3. `bundle install`
+4. `create your database.yml`
+5. `rails s`
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+And the go to `http://localhost:3000`
